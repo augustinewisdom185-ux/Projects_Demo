@@ -20,7 +20,7 @@ This program features a fully interactive menu that allows you to perform the fo
 
 ## 📋 Prerequisites
 This program uses only Python's standard libraries. There is no need to install external packages or dependencies.
-* **Python 3.x** installed on your machine.
+* **Python 3.14.5** installed on your machine.
 
 ---
 
