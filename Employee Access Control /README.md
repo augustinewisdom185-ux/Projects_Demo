@@ -11,7 +11,7 @@ A lightweight, Python-based Command Line Interface (CLI) application built to ma
 
 ## 🛠️ Built With
 
-* **Python 3.x**
+* **Python 3.14.5**
 * Standard Libraries: `random`, `string`
 
 ## 💻 How to Run
