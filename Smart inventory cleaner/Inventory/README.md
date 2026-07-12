@@ -11,7 +11,7 @@ A Python command-line utility built to ingest, clean, and standardize irregular 
 
 ## 🛠️ Technology Stack
 
-- **Language:** Python 3.x
+- **Language:** Python 3.14.5
 - **Core Engine Modules:** `json`, `json.JSONDecodeError`
 
 ## 📋 Architectural Workflow
