@@ -1,0 +1,32 @@
+{
+    "batch_id": 10923,
+    "last_updated": "2026-07-10 16:00:00",
+    "items": [
+        {
+            "product_id": "PRODUCT-001",
+            "title": "Wireless Mechanical Keyboard",
+            "price": 89.99,
+            "stock": 14,
+            "tags": ["electronics", "office"]
+        },
+        {
+            "product_id": "PRODUCT-002",
+            "title": "Ergonomic Office Chair 💺",
+            "price": 249.50,
+            "stock": 0,
+            "tags": ["furniture"]
+        },
+        {
+            "product_id": "PRODUCT-003",
+            "Price": 12.99,
+            "stock": 150
+        },
+        {
+            "product_id": "PRODUCT-004",
+            "title": "USB-C Charging Cable",
+            "price": 15.99,
+            "stock": -5,
+            "tags": ["electronics"]
+        }
+    ]
+}
