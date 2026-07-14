@@ -41,13 +41,14 @@ If you want to practice your own data cleaning skills using this exact messy mar
 
 ### Option 1: Load it directly into Python (No download needed)
 Copy and paste this code into your own Jupyter Notebook or Python script to import the messy dataset instantly over the web:
-
+```python
+import pandas as pd
 # Direct raw link to the messy dataset
 url = "[https://raw.githubusercontent.com/augustinewisdom185-ux/Projects_Demo/refs/heads/main/Data-Science-Portfolio/market_campaign/marketing_campaign_data_messy.csv](https://raw.githubusercontent.com/augustinewisdom185-ux/Projects_Demo/refs/heads/main/Data-Science-Portfolio/market_campaign/marketing_campaign_data_messy.csv)"
 file_name = pd.read_csv(url)
 
 # Now you're ready to clean!
-print(file_name.head())
+
 
 ### Option 2: Download the CSV file directly
 1. Go to the dataset file page on GitHub [here](https://github.com/augustinewisdom185-ux/Projects_Demo/blob/main/Data-Science-Portfolio/market_campaign/marketing_campaign_data_messy.csv).
