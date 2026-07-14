@@ -2,8 +2,6 @@
 
 A smart, object-oriented virtual assistant built in Python that dynamically references a local knowledge base to answer user inquiries. If the assistant encounters an unknown question, it triggers an interactive learning pipeline to expand its memory file permanently.
 
-This updated version introduces a stylized console interface boot sequence, input standardization updates, and protected crash-prevention overrides.
-
 ---
 
 ## 🚀 Key Architectural Features
