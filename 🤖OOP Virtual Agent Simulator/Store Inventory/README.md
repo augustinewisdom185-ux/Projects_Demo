@@ -35,7 +35,7 @@ Data manipulation properties (like individual object mutations or computing auto
 When you interact with the software and safely exit, it generates the following file tree layout:
 
 ```text
-├── your_script_name.py       # Main Application Source Code
+├── StoreInventory.py       # Main Application Source Code
 ├── Inventory_Item.json       # JSON Document Database State
 └── Store_Reports/            # Auto-Generated Report Output Directory
     ├── final_inventory.txt   # Total Net Worth & System Financial Valuation
@@ -47,7 +47,7 @@ When you interact with the software and safely exit, it generates the following 
 ## 💻 Installation & Usage
 
 ### Prerequisites
-Make sure you have Python 3.x installed on your local computer system. No external third-party dependencies or libraries are required to run this code.
+Make sure you have Python 3.14.5 installed on your local computer system. No external third-party dependencies or libraries are required to run this code.
 
 ### Running the App
 1. Clone this repository to your computer machine or download the source files.
