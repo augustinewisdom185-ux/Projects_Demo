@@ -1,0 +1,1001 @@
+Age,Gender,Condition,Medication,Blood Pressure,Cholesterol
+25,Female,Heart Disease,Atorvastatin,140/90,200
+40,Male,Diabetes,Metformin,120/80,200
+35,Female,Asthma,Albuterol,110/70,160
+40,Male,Diabetes,Metformin,110/70,180
+40,Female,Asthma,Albuterol,110/70,180
+40,Male,Hypertension,Amlodipine,140/90,180
+40,Male,Hypertension,Amlodipine,120/80,180
+60,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Heart Disease,Atorvastatin,140/90,180
+40,Female,Heart Disease,Atorvastatin,140/90,220
+25,Male,Asthma,Albuterol,120/80,200
+40,Male,Diabetes,Metformin,130/85,200
+40,Male,Diabetes,Metformin,140/90,180
+25,Female,Asthma,Albuterol,130/85,180
+70,Female,Hypertension,Amlodipine,130/85,220
+35,Female,Heart Disease,Atorvastatin,110/70,180
+60,Female,Asthma,Albuterol,120/80,200
+70,Female,Asthma,Albuterol,130/85,160
+25,Female,Diabetes,Metformin,120/80,180
+70,Male,Heart Disease,Atorvastatin,110/70,160
+35,Male,Hypertension,Amlodipine,120/80,180
+25,Male,Asthma,Albuterol,140/90,200
+70,Male,Asthma,Albuterol,130/85,220
+60,Male,Diabetes,Metformin,120/80,160
+60,Male,Asthma,Albuterol,120/80,220
+40,Male,Hypertension,Amlodipine,120/80,200
+70,Male,Heart Disease,Atorvastatin,130/85,160
+40,Female,Asthma,Albuterol,110/70,220
+70,Male,Asthma,Albuterol,110/70,220
+25,Female,Hypertension,Amlodipine,130/85,160
+25,Female,Hypertension,Amlodipine,140/90,200
+70,Male,Asthma,Albuterol,140/90,220
+35,Female,Hypertension,Amlodipine,110/70,180
+60,Female,Diabetes,Metformin,110/70,160
+25,Female,Asthma,Albuterol,130/85,180
+60,Female,Heart Disease,Atorvastatin,140/90,180
+25,Female,Asthma,Albuterol,110/70,200
+40,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Diabetes,Metformin,110/70,220
+25,Male,Heart Disease,Atorvastatin,120/80,180
+60,Male,Hypertension,Amlodipine,120/80,200
+40,Female,Hypertension,Amlodipine,120/80,180
+25,Female,Heart Disease,Atorvastatin,110/70,180
+35,Male,Diabetes,Metformin,120/80,200
+40,Female,Diabetes,Metformin,120/80,200
+25,Male,Asthma,Albuterol,110/70,220
+40,Female,Asthma,Albuterol,110/70,200
+35,Female,Heart Disease,Atorvastatin,140/90,220
+70,Female,Heart Disease,Atorvastatin,110/70,220
+40,Male,Heart Disease,Atorvastatin,130/85,160
+40,Male,Diabetes,Metformin,110/70,180
+35,Female,Asthma,Albuterol,130/85,180
+40,Male,Diabetes,Metformin,110/70,180
+35,Female,Hypertension,Amlodipine,140/90,160
+25,Female,Hypertension,Amlodipine,130/85,220
+35,Female,Heart Disease,Atorvastatin,120/80,220
+35,Male,Asthma,Albuterol,130/85,200
+40,Female,Diabetes,Metformin,140/90,160
+35,Male,Asthma,Albuterol,130/85,200
+35,Male,Asthma,Albuterol,110/70,160
+70,Male,Diabetes,Metformin,110/70,200
+25,Male,Heart Disease,Atorvastatin,140/90,180
+40,Male,Asthma,Albuterol,120/80,180
+70,Female,Hypertension,Amlodipine,110/70,180
+60,Female,Diabetes,Metformin,120/80,220
+25,Female,Asthma,Albuterol,140/90,180
+25,Female,Heart Disease,Atorvastatin,130/85,180
+60,Female,Diabetes,Metformin,130/85,220
+35,Female,Diabetes,Metformin,120/80,180
+70,Female,Asthma,Albuterol,110/70,180
+40,Female,Asthma,Albuterol,140/90,200
+40,Female,Asthma,Albuterol,120/80,160
+40,Female,Asthma,Albuterol,110/70,180
+60,Male,Diabetes,Metformin,140/90,220
+25,Female,Diabetes,Metformin,130/85,180
+25,Male,Heart Disease,Atorvastatin,140/90,220
+40,Female,Asthma,Albuterol,120/80,180
+25,Female,Heart Disease,Atorvastatin,140/90,220
+25,Female,Hypertension,Amlodipine,120/80,180
+40,Male,Heart Disease,Atorvastatin,140/90,200
+70,Male,Diabetes,Metformin,120/80,180
+70,Female,Heart Disease,Atorvastatin,130/85,200
+40,Male,Heart Disease,Atorvastatin,110/70,180
+60,Male,Heart Disease,Atorvastatin,120/80,180
+25,Female,Heart Disease,Atorvastatin,120/80,180
+25,Male,Hypertension,Amlodipine,130/85,160
+60,Female,Asthma,Albuterol,120/80,220
+70,Female,Diabetes,Metformin,120/80,220
+35,Female,Heart Disease,Atorvastatin,130/85,220
+35,Female,Heart Disease,Atorvastatin,120/80,200
+35,Female,Heart Disease,Atorvastatin,130/85,220
+70,Female,Asthma,Albuterol,120/80,220
+70,Female,Diabetes,Metformin,120/80,180
+60,Female,Diabetes,Metformin,120/80,180
+25,Female,Hypertension,Amlodipine,130/85,220
+60,Male,Diabetes,Metformin,120/80,160
+60,Male,Heart Disease,Atorvastatin,120/80,220
+70,Female,Heart Disease,Atorvastatin,120/80,200
+35,Female,Heart Disease,Atorvastatin,120/80,200
+40,Female,Hypertension,Amlodipine,140/90,200
+25,Female,Heart Disease,Atorvastatin,130/85,220
+70,Male,Diabetes,Metformin,130/85,180
+35,Female,Asthma,Albuterol,120/80,160
+40,Male,Asthma,Albuterol,140/90,220
+40,Female,Diabetes,Metformin,120/80,180
+70,Female,Diabetes,Metformin,110/70,180
+40,Female,Heart Disease,Atorvastatin,110/70,220
+25,Male,Asthma,Albuterol,120/80,220
+40,Male,Diabetes,Metformin,140/90,180
+70,Female,Asthma,Albuterol,140/90,180
+70,Female,Heart Disease,Atorvastatin,130/85,180
+35,Female,Asthma,Albuterol,120/80,220
+40,Female,Heart Disease,Atorvastatin,140/90,180
+25,Male,Hypertension,Amlodipine,110/70,200
+60,Male,Asthma,Albuterol,120/80,220
+35,Female,Diabetes,Metformin,120/80,200
+40,Female,Diabetes,Metformin,120/80,180
+40,Male,Diabetes,Metformin,140/90,220
+35,Female,Asthma,Albuterol,120/80,180
+70,Female,Diabetes,Metformin,140/90,180
+40,Female,Heart Disease,Atorvastatin,130/85,180
+40,Female,Hypertension,Amlodipine,120/80,160
+25,Female,Heart Disease,Atorvastatin,120/80,180
+40,Female,Diabetes,Metformin,110/70,180
+40,Male,Heart Disease,Atorvastatin,120/80,180
+60,Male,Diabetes,Metformin,140/90,220
+25,Female,Asthma,Albuterol,110/70,180
+25,Male,Heart Disease,Atorvastatin,120/80,160
+35,Female,Asthma,Albuterol,120/80,180
+35,Female,Asthma,Albuterol,130/85,180
+60,Female,Hypertension,Amlodipine,120/80,180
+70,Female,Diabetes,Metformin,120/80,180
+25,Female,Asthma,Albuterol,110/70,180
+60,Female,Diabetes,Metformin,120/80,180
+35,Male,Diabetes,Metformin,110/70,160
+35,Female,Diabetes,Metformin,130/85,220
+25,Female,Asthma,Albuterol,120/80,160
+40,Female,Heart Disease,Atorvastatin,120/80,200
+40,Male,Heart Disease,Atorvastatin,120/80,160
+35,Female,Hypertension,Amlodipine,110/70,180
+70,Male,Asthma,Albuterol,120/80,220
+70,Female,Heart Disease,Atorvastatin,120/80,180
+35,Female,Diabetes,Metformin,120/80,200
+40,Female,Asthma,Albuterol,130/85,220
+40,Female,Heart Disease,Atorvastatin,120/80,180
+60,Male,Heart Disease,Atorvastatin,120/80,160
+70,Male,Asthma,Albuterol,120/80,180
+60,Female,Diabetes,Metformin,140/90,200
+70,Female,Hypertension,Amlodipine,110/70,180
+40,Female,Asthma,Albuterol,120/80,160
+40,Male,Diabetes,Metformin,140/90,180
+25,Female,Hypertension,Amlodipine,130/85,160
+60,Female,Diabetes,Metformin,110/70,220
+35,Female,Asthma,Albuterol,120/80,180
+60,Male,Heart Disease,Atorvastatin,120/80,180
+35,Female,Diabetes,Metformin,120/80,180
+40,Male,Hypertension,Amlodipine,120/80,220
+60,Female,Diabetes,Metformin,110/70,200
+40,Male,Asthma,Albuterol,120/80,160
+40,Female,Asthma,Albuterol,130/85,180
+40,Female,Asthma,Albuterol,120/80,220
+25,Female,Diabetes,Metformin,130/85,200
+60,Male,Heart Disease,Atorvastatin,110/70,160
+40,Male,Hypertension,Amlodipine,110/70,220
+35,Female,Asthma,Albuterol,120/80,160
+40,Male,Hypertension,Amlodipine,130/85,180
+40,Female,Heart Disease,Atorvastatin,130/85,200
+35,Female,Heart Disease,Atorvastatin,140/90,220
+40,Male,Asthma,Albuterol,140/90,200
+40,Female,Diabetes,Metformin,140/90,180
+60,Female,Heart Disease,Atorvastatin,120/80,200
+60,Female,Heart Disease,Atorvastatin,140/90,200
+70,Female,Asthma,Albuterol,130/85,180
+70,Male,Asthma,Albuterol,120/80,200
+25,Female,Asthma,Albuterol,110/70,160
+40,Female,Asthma,Albuterol,120/80,220
+60,Female,Asthma,Albuterol,140/90,180
+40,Male,Heart Disease,Atorvastatin,110/70,220
+35,Female,Heart Disease,Atorvastatin,130/85,220
+40,Female,Asthma,Albuterol,120/80,180
+40,Male,Hypertension,Amlodipine,110/70,180
+70,Female,Hypertension,Amlodipine,120/80,180
+40,Male,Heart Disease,Atorvastatin,140/90,180
+25,Female,Diabetes,Metformin,130/85,180
+40,Female,Diabetes,Metformin,120/80,180
+70,Male,Diabetes,Metformin,110/70,220
+35,Female,Hypertension,Amlodipine,140/90,180
+70,Male,Diabetes,Metformin,140/90,220
+25,Male,Asthma,Albuterol,110/70,160
+40,Female,Asthma,Albuterol,110/70,220
+35,Male,Hypertension,Amlodipine,120/80,160
+25,Female,Heart Disease,Atorvastatin,120/80,200
+70,Female,Heart Disease,Atorvastatin,140/90,200
+25,Female,Asthma,Albuterol,120/80,160
+40,Female,Hypertension,Amlodipine,110/70,160
+60,Female,Diabetes,Metformin,120/80,220
+25,Male,Diabetes,Metformin,110/70,160
+25,Female,Heart Disease,Atorvastatin,130/85,180
+70,Male,Diabetes,Metformin,110/70,200
+70,Male,Diabetes,Metformin,110/70,200
+35,Male,Heart Disease,Atorvastatin,110/70,160
+70,Female,Heart Disease,Atorvastatin,120/80,180
+40,Male,Diabetes,Metformin,110/70,180
+40,Female,Asthma,Albuterol,140/90,160
+40,Female,Diabetes,Metformin,140/90,180
+60,Female,Diabetes,Metformin,120/80,180
+60,Male,Asthma,Albuterol,120/80,160
+40,Female,Diabetes,Metformin,120/80,180
+60,Female,Diabetes,Metformin,140/90,180
+35,Female,Heart Disease,Atorvastatin,140/90,220
+70,Female,Asthma,Albuterol,130/85,180
+40,Male,Asthma,Albuterol,110/70,180
+60,Female,Diabetes,Metformin,140/90,180
+40,Male,Hypertension,Amlodipine,120/80,160
+40,Male,Hypertension,Amlodipine,120/80,160
+25,Female,Asthma,Albuterol,110/70,180
+70,Female,Diabetes,Metformin,110/70,200
+40,Female,Hypertension,Amlodipine,130/85,220
+25,Female,Heart Disease,Atorvastatin,120/80,200
+60,Female,Diabetes,Metformin,120/80,180
+25,Female,Diabetes,Metformin,110/70,180
+70,Female,Diabetes,Metformin,120/80,200
+40,Female,Diabetes,Metformin,110/70,220
+40,Male,Diabetes,Metformin,140/90,200
+60,Female,Diabetes,Metformin,120/80,160
+40,Male,Asthma,Albuterol,140/90,180
+70,Male,Heart Disease,Atorvastatin,120/80,160
+60,Female,Heart Disease,Atorvastatin,120/80,180
+35,Male,Diabetes,Metformin,130/85,180
+25,Male,Diabetes,Metformin,140/90,220
+70,Female,Heart Disease,Atorvastatin,110/70,200
+35,Female,Heart Disease,Atorvastatin,120/80,220
+40,Male,Heart Disease,Atorvastatin,120/80,200
+40,Female,Diabetes,Metformin,140/90,160
+60,Male,Diabetes,Metformin,120/80,160
+25,Male,Diabetes,Metformin,120/80,200
+60,Female,Asthma,Albuterol,120/80,220
+40,Male,Heart Disease,Atorvastatin,130/85,200
+60,Female,Asthma,Albuterol,130/85,180
+25,Male,Asthma,Albuterol,110/70,160
+40,Female,Asthma,Albuterol,140/90,180
+60,Female,Diabetes,Metformin,120/80,160
+40,Female,Asthma,Albuterol,120/80,160
+70,Female,Heart Disease,Atorvastatin,120/80,180
+40,Male,Diabetes,Metformin,120/80,180
+70,Female,Heart Disease,Atorvastatin,130/85,180
+40,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Asthma,Albuterol,120/80,220
+70,Female,Hypertension,Amlodipine,130/85,180
+35,Female,Heart Disease,Atorvastatin,130/85,200
+25,Female,Diabetes,Metformin,140/90,180
+35,Female,Heart Disease,Atorvastatin,140/90,180
+60,Female,Hypertension,Amlodipine,140/90,220
+40,Male,Diabetes,Metformin,120/80,180
+35,Female,Asthma,Albuterol,110/70,160
+40,Female,Hypertension,Amlodipine,140/90,200
+60,Female,Hypertension,Amlodipine,110/70,180
+60,Female,Hypertension,Amlodipine,120/80,160
+35,Female,Asthma,Albuterol,110/70,220
+35,Female,Diabetes,Metformin,120/80,160
+40,Male,Asthma,Albuterol,110/70,160
+25,Male,Hypertension,Amlodipine,140/90,220
+35,Male,Asthma,Albuterol,120/80,160
+35,Female,Heart Disease,Atorvastatin,140/90,180
+70,Female,Asthma,Albuterol,120/80,180
+40,Male,Asthma,Albuterol,140/90,160
+70,Female,Diabetes,Metformin,140/90,180
+70,Female,Diabetes,Metformin,140/90,180
+60,Female,Asthma,Albuterol,130/85,180
+25,Female,Hypertension,Amlodipine,120/80,160
+40,Male,Heart Disease,Atorvastatin,140/90,180
+40,Female,Diabetes,Metformin,140/90,160
+40,Male,Hypertension,Amlodipine,140/90,220
+35,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Diabetes,Metformin,130/85,160
+40,Male,Hypertension,Amlodipine,120/80,180
+35,Female,Hypertension,Amlodipine,130/85,180
+25,Female,Heart Disease,Atorvastatin,140/90,200
+70,Female,Heart Disease,Atorvastatin,120/80,160
+35,Male,Asthma,Albuterol,110/70,160
+60,Male,Hypertension,Amlodipine,110/70,180
+35,Male,Hypertension,Amlodipine,140/90,180
+40,Female,Heart Disease,Atorvastatin,120/80,220
+25,Male,Diabetes,Metformin,120/80,180
+40,Female,Diabetes,Metformin,130/85,160
+40,Female,Asthma,Albuterol,140/90,220
+60,Female,Heart Disease,Atorvastatin,120/80,180
+25,Female,Asthma,Albuterol,120/80,200
+25,Male,Heart Disease,Atorvastatin,130/85,180
+25,Male,Diabetes,Metformin,120/80,180
+25,Female,Hypertension,Amlodipine,120/80,180
+25,Female,Heart Disease,Atorvastatin,120/80,200
+60,Male,Heart Disease,Atorvastatin,120/80,160
+35,Female,Hypertension,Amlodipine,120/80,180
+40,Male,Diabetes,Metformin,120/80,180
+25,Female,Diabetes,Metformin,130/85,220
+35,Female,Asthma,Albuterol,120/80,180
+35,Male,Heart Disease,Atorvastatin,110/70,180
+40,Female,Heart Disease,Atorvastatin,120/80,180
+60,Male,Diabetes,Metformin,130/85,200
+40,Male,Heart Disease,Atorvastatin,110/70,180
+40,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Hypertension,Amlodipine,120/80,220
+70,Male,Heart Disease,Atorvastatin,140/90,200
+70,Male,Diabetes,Metformin,140/90,200
+40,Male,Diabetes,Metformin,120/80,180
+40,Female,Diabetes,Metformin,140/90,220
+35,Female,Asthma,Albuterol,140/90,180
+60,Female,Heart Disease,Atorvastatin,120/80,180
+40,Female,Heart Disease,Atorvastatin,120/80,180
+35,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Asthma,Albuterol,120/80,220
+25,Female,Heart Disease,Atorvastatin,120/80,160
+60,Female,Diabetes,Metformin,130/85,180
+25,Female,Diabetes,Metformin,140/90,160
+40,Female,Diabetes,Metformin,120/80,200
+25,Female,Hypertension,Amlodipine,140/90,180
+25,Female,Asthma,Albuterol,110/70,180
+40,Female,Asthma,Albuterol,120/80,220
+70,Male,Hypertension,Amlodipine,130/85,160
+35,Female,Heart Disease,Atorvastatin,110/70,180
+60,Female,Heart Disease,Atorvastatin,110/70,180
+25,Male,Asthma,Albuterol,110/70,220
+60,Female,Asthma,Albuterol,120/80,220
+70,Female,Diabetes,Metformin,120/80,160
+70,Female,Heart Disease,Atorvastatin,120/80,200
+25,Male,Hypertension,Amlodipine,120/80,200
+40,Female,Heart Disease,Atorvastatin,110/70,180
+25,Female,Diabetes,Metformin,110/70,180
+40,Female,Asthma,Albuterol,130/85,160
+35,Female,Asthma,Albuterol,120/80,180
+40,Female,Diabetes,Metformin,110/70,160
+25,Female,Hypertension,Amlodipine,140/90,160
+60,Female,Asthma,Albuterol,130/85,160
+40,Female,Asthma,Albuterol,120/80,180
+40,Female,Asthma,Albuterol,130/85,220
+25,Male,Diabetes,Metformin,140/90,180
+40,Female,Diabetes,Metformin,120/80,160
+60,Male,Diabetes,Metformin,120/80,180
+70,Female,Asthma,Albuterol,120/80,200
+40,Female,Heart Disease,Atorvastatin,120/80,160
+70,Female,Hypertension,Amlodipine,130/85,180
+60,Female,Hypertension,Amlodipine,110/70,220
+25,Female,Asthma,Albuterol,130/85,160
+35,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Asthma,Albuterol,110/70,160
+35,Female,Heart Disease,Atorvastatin,130/85,180
+60,Female,Heart Disease,Atorvastatin,120/80,180
+40,Male,Heart Disease,Atorvastatin,140/90,180
+70,Female,Heart Disease,Atorvastatin,140/90,180
+40,Male,Diabetes,Metformin,140/90,180
+35,Male,Diabetes,Metformin,110/70,200
+40,Female,Heart Disease,Atorvastatin,120/80,180
+35,Male,Hypertension,Amlodipine,110/70,200
+40,Female,Asthma,Albuterol,130/85,160
+25,Female,Asthma,Albuterol,120/80,160
+70,Male,Diabetes,Metformin,130/85,180
+35,Female,Asthma,Albuterol,120/80,160
+40,Female,Diabetes,Metformin,110/70,220
+40,Female,Hypertension,Amlodipine,140/90,180
+60,Male,Hypertension,Amlodipine,120/80,180
+40,Female,Asthma,Albuterol,140/90,200
+35,Female,Heart Disease,Atorvastatin,110/70,160
+60,Male,Heart Disease,Atorvastatin,120/80,200
+35,Female,Heart Disease,Atorvastatin,140/90,180
+40,Male,Heart Disease,Atorvastatin,110/70,180
+40,Male,Asthma,Albuterol,130/85,160
+25,Male,Hypertension,Amlodipine,120/80,220
+40,Female,Heart Disease,Atorvastatin,140/90,220
+60,Male,Heart Disease,Atorvastatin,120/80,160
+70,Female,Heart Disease,Atorvastatin,130/85,160
+25,Male,Hypertension,Amlodipine,110/70,200
+60,Female,Heart Disease,Atorvastatin,120/80,160
+40,Male,Hypertension,Amlodipine,120/80,220
+25,Male,Heart Disease,Atorvastatin,110/70,160
+60,Female,Diabetes,Metformin,110/70,200
+40,Female,Asthma,Albuterol,140/90,200
+40,Female,Hypertension,Amlodipine,140/90,200
+70,Male,Heart Disease,Atorvastatin,120/80,200
+40,Female,Hypertension,Amlodipine,110/70,180
+35,Female,Diabetes,Metformin,140/90,160
+40,Male,Diabetes,Metformin,120/80,180
+40,Female,Hypertension,Amlodipine,120/80,160
+70,Female,Asthma,Albuterol,110/70,180
+35,Female,Diabetes,Metformin,140/90,200
+60,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Asthma,Albuterol,120/80,220
+40,Female,Hypertension,Amlodipine,120/80,220
+35,Female,Asthma,Albuterol,120/80,160
+35,Male,Diabetes,Metformin,140/90,160
+70,Female,Diabetes,Metformin,140/90,180
+40,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Diabetes,Metformin,120/80,220
+70,Male,Heart Disease,Atorvastatin,120/80,200
+25,Female,Asthma,Albuterol,110/70,180
+60,Female,Diabetes,Metformin,130/85,180
+70,Female,Diabetes,Metformin,140/90,180
+60,Female,Asthma,Albuterol,140/90,200
+40,Male,Heart Disease,Atorvastatin,140/90,200
+25,Female,Asthma,Albuterol,130/85,160
+40,Female,Diabetes,Metformin,110/70,180
+25,Male,Diabetes,Metformin,130/85,200
+40,Female,Asthma,Albuterol,120/80,180
+70,Female,Hypertension,Amlodipine,120/80,180
+25,Male,Asthma,Albuterol,140/90,220
+40,Female,Heart Disease,Atorvastatin,120/80,200
+60,Male,Heart Disease,Atorvastatin,140/90,160
+25,Male,Heart Disease,Atorvastatin,120/80,180
+70,Female,Heart Disease,Atorvastatin,130/85,160
+25,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Hypertension,Amlodipine,120/80,160
+60,Female,Heart Disease,Atorvastatin,130/85,180
+70,Male,Heart Disease,Atorvastatin,120/80,180
+70,Female,Hypertension,Amlodipine,120/80,180
+40,Male,Diabetes,Metformin,140/90,180
+40,Male,Asthma,Albuterol,140/90,180
+40,Female,Asthma,Albuterol,140/90,220
+70,Male,Hypertension,Amlodipine,130/85,160
+60,Female,Asthma,Albuterol,140/90,220
+25,Female,Heart Disease,Atorvastatin,110/70,220
+25,Female,Asthma,Albuterol,120/80,200
+60,Female,Heart Disease,Atorvastatin,130/85,200
+70,Male,Diabetes,Metformin,140/90,200
+25,Female,Asthma,Albuterol,120/80,180
+25,Female,Hypertension,Amlodipine,120/80,200
+25,Male,Heart Disease,Atorvastatin,140/90,160
+40,Female,Diabetes,Metformin,120/80,220
+40,Female,Hypertension,Amlodipine,110/70,160
+35,Female,Heart Disease,Atorvastatin,120/80,200
+40,Female,Asthma,Albuterol,110/70,180
+60,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Hypertension,Amlodipine,110/70,220
+60,Male,Diabetes,Metformin,120/80,160
+35,Male,Heart Disease,Atorvastatin,120/80,180
+40,Female,Asthma,Albuterol,110/70,160
+70,Male,Hypertension,Amlodipine,120/80,200
+70,Female,Diabetes,Metformin,140/90,180
+35,Female,Hypertension,Amlodipine,120/80,180
+70,Female,Heart Disease,Atorvastatin,130/85,220
+60,Female,Heart Disease,Atorvastatin,120/80,220
+40,Female,Heart Disease,Atorvastatin,130/85,180
+25,Male,Asthma,Albuterol,120/80,200
+40,Female,Asthma,Albuterol,120/80,180
+40,Female,Diabetes,Metformin,110/70,200
+35,Female,Heart Disease,Atorvastatin,140/90,180
+40,Male,Asthma,Albuterol,140/90,180
+60,Female,Heart Disease,Atorvastatin,120/80,200
+70,Female,Heart Disease,Atorvastatin,110/70,180
+60,Female,Hypertension,Amlodipine,110/70,180
+35,Female,Hypertension,Amlodipine,140/90,220
+60,Male,Heart Disease,Atorvastatin,110/70,180
+70,Male,Asthma,Albuterol,140/90,160
+40,Male,Asthma,Albuterol,110/70,180
+35,Male,Heart Disease,Atorvastatin,120/80,160
+40,Female,Heart Disease,Atorvastatin,140/90,180
+25,Female,Asthma,Albuterol,140/90,180
+40,Male,Hypertension,Amlodipine,130/85,180
+25,Male,Diabetes,Metformin,110/70,180
+25,Male,Asthma,Albuterol,110/70,200
+40,Female,Diabetes,Metformin,140/90,180
+35,Male,Hypertension,Amlodipine,120/80,180
+70,Male,Asthma,Albuterol,120/80,180
+60,Male,Diabetes,Metformin,120/80,180
+60,Female,Heart Disease,Atorvastatin,110/70,220
+70,Male,Heart Disease,Atorvastatin,130/85,200
+25,Female,Hypertension,Amlodipine,140/90,180
+25,Female,Asthma,Albuterol,120/80,200
+35,Male,Asthma,Albuterol,130/85,160
+40,Female,Asthma,Albuterol,120/80,180
+40,Male,Hypertension,Amlodipine,130/85,200
+25,Female,Asthma,Albuterol,120/80,220
+60,Female,Heart Disease,Atorvastatin,110/70,220
+35,Female,Diabetes,Metformin,120/80,180
+40,Female,Heart Disease,Atorvastatin,130/85,160
+35,Female,Heart Disease,Atorvastatin,110/70,220
+40,Male,Diabetes,Metformin,120/80,220
+40,Male,Heart Disease,Atorvastatin,140/90,160
+70,Male,Hypertension,Amlodipine,130/85,200
+25,Female,Diabetes,Metformin,140/90,220
+35,Female,Heart Disease,Atorvastatin,120/80,180
+35,Male,Asthma,Albuterol,140/90,220
+70,Female,Heart Disease,Atorvastatin,140/90,200
+60,Male,Hypertension,Amlodipine,130/85,200
+60,Male,Asthma,Albuterol,120/80,180
+25,Male,Heart Disease,Atorvastatin,140/90,180
+25,Male,Asthma,Albuterol,110/70,200
+40,Male,Diabetes,Metformin,120/80,160
+70,Male,Heart Disease,Atorvastatin,140/90,180
+60,Male,Diabetes,Metformin,120/80,180
+40,Female,Asthma,Albuterol,140/90,160
+35,Male,Heart Disease,Atorvastatin,120/80,220
+25,Male,Diabetes,Metformin,120/80,160
+35,Female,Diabetes,Metformin,130/85,160
+35,Female,Diabetes,Metformin,120/80,220
+40,Female,Diabetes,Metformin,130/85,220
+60,Male,Heart Disease,Atorvastatin,120/80,220
+25,Female,Heart Disease,Atorvastatin,120/80,220
+35,Female,Heart Disease,Atorvastatin,120/80,220
+25,Female,Asthma,Albuterol,120/80,160
+40,Female,Diabetes,Metformin,140/90,180
+40,Female,Heart Disease,Atorvastatin,120/80,180
+40,Male,Hypertension,Amlodipine,130/85,200
+25,Female,Hypertension,Amlodipine,130/85,180
+25,Male,Heart Disease,Atorvastatin,110/70,180
+60,Female,Heart Disease,Atorvastatin,130/85,160
+35,Male,Hypertension,Amlodipine,110/70,220
+35,Female,Hypertension,Amlodipine,120/80,220
+40,Male,Heart Disease,Atorvastatin,120/80,160
+40,Male,Asthma,Albuterol,120/80,180
+70,Female,Hypertension,Amlodipine,140/90,160
+35,Male,Diabetes,Metformin,140/90,200
+60,Male,Heart Disease,Atorvastatin,110/70,220
+40,Male,Diabetes,Metformin,130/85,180
+40,Female,Heart Disease,Atorvastatin,130/85,200
+70,Female,Heart Disease,Atorvastatin,120/80,200
+60,Male,Hypertension,Amlodipine,120/80,160
+40,Male,Hypertension,Amlodipine,140/90,180
+60,Female,Diabetes,Metformin,140/90,220
+40,Female,Heart Disease,Atorvastatin,120/80,180
+60,Male,Diabetes,Metformin,140/90,200
+60,Male,Asthma,Albuterol,120/80,180
+25,Male,Diabetes,Metformin,110/70,180
+40,Female,Hypertension,Amlodipine,130/85,180
+60,Female,Diabetes,Metformin,120/80,180
+70,Female,Asthma,Albuterol,130/85,220
+60,Female,Heart Disease,Atorvastatin,130/85,180
+35,Female,Diabetes,Metformin,110/70,180
+40,Female,Asthma,Albuterol,140/90,200
+35,Female,Diabetes,Metformin,120/80,180
+40,Female,Diabetes,Metformin,140/90,180
+35,Female,Asthma,Albuterol,130/85,160
+60,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Hypertension,Amlodipine,130/85,220
+25,Male,Diabetes,Metformin,140/90,220
+70,Male,Hypertension,Amlodipine,130/85,160
+35,Female,Asthma,Albuterol,120/80,220
+40,Female,Heart Disease,Atorvastatin,110/70,180
+25,Female,Heart Disease,Atorvastatin,140/90,160
+35,Female,Heart Disease,Atorvastatin,130/85,200
+35,Female,Asthma,Albuterol,140/90,180
+25,Male,Heart Disease,Atorvastatin,110/70,180
+60,Female,Asthma,Albuterol,130/85,180
+35,Male,Hypertension,Amlodipine,130/85,180
+60,Male,Asthma,Albuterol,140/90,200
+25,Female,Heart Disease,Atorvastatin,140/90,160
+60,Female,Heart Disease,Atorvastatin,120/80,160
+40,Female,Heart Disease,Atorvastatin,110/70,180
+40,Female,Hypertension,Amlodipine,120/80,200
+35,Male,Diabetes,Metformin,130/85,200
+70,Female,Hypertension,Amlodipine,140/90,200
+40,Female,Hypertension,Amlodipine,130/85,220
+60,Male,Asthma,Albuterol,130/85,220
+35,Male,Asthma,Albuterol,120/80,180
+60,Male,Hypertension,Amlodipine,120/80,200
+40,Female,Hypertension,Amlodipine,130/85,200
+25,Female,Hypertension,Amlodipine,140/90,160
+35,Female,Hypertension,Amlodipine,130/85,160
+40,Female,Asthma,Albuterol,120/80,180
+40,Female,Hypertension,Amlodipine,140/90,200
+35,Female,Heart Disease,Atorvastatin,130/85,180
+60,Male,Heart Disease,Atorvastatin,110/70,160
+70,Female,Asthma,Albuterol,110/70,160
+40,Female,Hypertension,Amlodipine,130/85,220
+40,Female,Diabetes,Metformin,140/90,180
+40,Male,Diabetes,Metformin,130/85,180
+70,Male,Diabetes,Metformin,130/85,200
+60,Female,Asthma,Albuterol,120/80,200
+60,Female,Hypertension,Amlodipine,110/70,220
+40,Female,Diabetes,Metformin,120/80,180
+40,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Asthma,Albuterol,130/85,180
+70,Male,Heart Disease,Atorvastatin,120/80,180
+35,Female,Diabetes,Metformin,110/70,180
+25,Female,Diabetes,Metformin,120/80,160
+25,Male,Diabetes,Metformin,110/70,180
+25,Male,Hypertension,Amlodipine,120/80,180
+40,Female,Hypertension,Amlodipine,110/70,180
+40,Female,Asthma,Albuterol,120/80,220
+60,Female,Asthma,Albuterol,120/80,180
+35,Male,Asthma,Albuterol,140/90,200
+70,Female,Hypertension,Amlodipine,110/70,200
+35,Female,Hypertension,Amlodipine,110/70,160
+70,Female,Asthma,Albuterol,110/70,220
+40,Male,Asthma,Albuterol,120/80,200
+25,Female,Heart Disease,Atorvastatin,120/80,220
+40,Female,Asthma,Albuterol,110/70,220
+40,Male,Hypertension,Amlodipine,120/80,160
+40,Male,Heart Disease,Atorvastatin,140/90,220
+70,Female,Hypertension,Amlodipine,110/70,180
+60,Female,Asthma,Albuterol,110/70,220
+60,Female,Hypertension,Amlodipine,120/80,160
+70,Female,Hypertension,Amlodipine,120/80,160
+40,Female,Hypertension,Amlodipine,140/90,160
+40,Male,Heart Disease,Atorvastatin,110/70,200
+40,Male,Diabetes,Metformin,120/80,180
+40,Female,Asthma,Albuterol,140/90,200
+40,Female,Diabetes,Metformin,130/85,180
+35,Male,Diabetes,Metformin,130/85,180
+25,Male,Diabetes,Metformin,140/90,220
+40,Female,Hypertension,Amlodipine,120/80,160
+70,Male,Asthma,Albuterol,140/90,180
+25,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Hypertension,Amlodipine,120/80,200
+70,Female,Diabetes,Metformin,120/80,160
+25,Female,Hypertension,Amlodipine,120/80,200
+70,Female,Diabetes,Metformin,120/80,180
+40,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Asthma,Albuterol,130/85,180
+40,Female,Diabetes,Metformin,130/85,220
+40,Female,Heart Disease,Atorvastatin,140/90,200
+70,Male,Asthma,Albuterol,110/70,180
+60,Female,Heart Disease,Atorvastatin,140/90,160
+40,Male,Diabetes,Metformin,140/90,220
+40,Male,Diabetes,Metformin,110/70,180
+35,Female,Heart Disease,Atorvastatin,120/80,200
+35,Female,Heart Disease,Atorvastatin,130/85,180
+40,Male,Diabetes,Metformin,140/90,160
+60,Male,Heart Disease,Atorvastatin,110/70,200
+40,Female,Hypertension,Amlodipine,120/80,220
+60,Female,Asthma,Albuterol,140/90,220
+35,Female,Asthma,Albuterol,130/85,180
+25,Female,Asthma,Albuterol,120/80,180
+70,Female,Hypertension,Amlodipine,140/90,160
+35,Female,Heart Disease,Atorvastatin,140/90,160
+35,Female,Hypertension,Amlodipine,110/70,180
+40,Male,Heart Disease,Atorvastatin,120/80,180
+40,Female,Diabetes,Metformin,120/80,220
+40,Female,Asthma,Albuterol,120/80,180
+70,Male,Heart Disease,Atorvastatin,130/85,180
+40,Male,Asthma,Albuterol,120/80,200
+60,Male,Diabetes,Metformin,140/90,180
+40,Female,Hypertension,Amlodipine,140/90,160
+25,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Diabetes,Metformin,130/85,160
+60,Female,Diabetes,Metformin,110/70,180
+25,Female,Asthma,Albuterol,130/85,180
+60,Male,Heart Disease,Atorvastatin,140/90,200
+60,Female,Diabetes,Metformin,110/70,160
+35,Female,Hypertension,Amlodipine,130/85,180
+40,Female,Hypertension,Amlodipine,130/85,220
+40,Male,Asthma,Albuterol,110/70,180
+70,Male,Heart Disease,Atorvastatin,140/90,200
+40,Female,Heart Disease,Atorvastatin,130/85,180
+70,Female,Diabetes,Metformin,110/70,220
+35,Female,Diabetes,Metformin,140/90,200
+35,Male,Asthma,Albuterol,110/70,220
+35,Male,Heart Disease,Atorvastatin,110/70,180
+25,Female,Diabetes,Metformin,130/85,180
+70,Male,Asthma,Albuterol,140/90,180
+40,Female,Diabetes,Metformin,130/85,180
+40,Female,Diabetes,Metformin,120/80,180
+60,Female,Asthma,Albuterol,120/80,160
+60,Female,Asthma,Albuterol,140/90,220
+60,Male,Heart Disease,Atorvastatin,110/70,220
+35,Female,Heart Disease,Atorvastatin,130/85,220
+40,Male,Asthma,Albuterol,130/85,160
+70,Female,Heart Disease,Atorvastatin,140/90,180
+35,Female,Hypertension,Amlodipine,140/90,180
+25,Female,Diabetes,Metformin,120/80,180
+60,Female,Asthma,Albuterol,120/80,160
+35,Female,Asthma,Albuterol,140/90,220
+35,Male,Diabetes,Metformin,120/80,180
+25,Male,Heart Disease,Atorvastatin,140/90,200
+40,Male,Hypertension,Amlodipine,110/70,200
+40,Female,Heart Disease,Atorvastatin,110/70,180
+70,Female,Asthma,Albuterol,120/80,220
+40,Female,Diabetes,Metformin,120/80,200
+60,Female,Asthma,Albuterol,120/80,180
+35,Female,Diabetes,Metformin,140/90,160
+25,Male,Heart Disease,Atorvastatin,130/85,180
+25,Female,Hypertension,Amlodipine,120/80,180
+40,Female,Asthma,Albuterol,130/85,180
+40,Male,Asthma,Albuterol,130/85,180
+40,Female,Asthma,Albuterol,140/90,180
+35,Male,Hypertension,Amlodipine,120/80,180
+40,Male,Diabetes,Metformin,140/90,180
+70,Female,Diabetes,Metformin,120/80,180
+25,Female,Heart Disease,Atorvastatin,130/85,160
+25,Female,Diabetes,Metformin,140/90,220
+60,Female,Asthma,Albuterol,140/90,200
+60,Female,Asthma,Albuterol,140/90,200
+35,Female,Heart Disease,Atorvastatin,120/80,180
+70,Male,Asthma,Albuterol,120/80,160
+40,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Diabetes,Metformin,120/80,200
+35,Male,Asthma,Albuterol,130/85,180
+60,Female,Hypertension,Amlodipine,110/70,220
+40,Female,Heart Disease,Atorvastatin,120/80,160
+60,Female,Asthma,Albuterol,110/70,180
+40,Female,Asthma,Albuterol,140/90,220
+40,Male,Asthma,Albuterol,140/90,160
+35,Female,Heart Disease,Atorvastatin,120/80,160
+40,Male,Asthma,Albuterol,110/70,200
+70,Female,Diabetes,Metformin,140/90,180
+25,Female,Asthma,Albuterol,130/85,160
+70,Male,Hypertension,Amlodipine,120/80,160
+70,Female,Asthma,Albuterol,120/80,220
+25,Female,Heart Disease,Atorvastatin,140/90,200
+70,Female,Heart Disease,Atorvastatin,110/70,180
+40,Male,Asthma,Albuterol,140/90,200
+40,Male,Diabetes,Metformin,110/70,180
+40,Male,Diabetes,Metformin,130/85,180
+25,Female,Hypertension,Amlodipine,110/70,180
+70,Female,Diabetes,Metformin,140/90,160
+25,Male,Asthma,Albuterol,130/85,180
+40,Female,Diabetes,Metformin,120/80,160
+70,Female,Hypertension,Amlodipine,120/80,200
+70,Male,Heart Disease,Atorvastatin,140/90,180
+60,Female,Hypertension,Amlodipine,140/90,200
+60,Female,Hypertension,Amlodipine,140/90,200
+40,Female,Diabetes,Metformin,130/85,180
+35,Female,Asthma,Albuterol,120/80,200
+60,Female,Hypertension,Amlodipine,110/70,180
+25,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Diabetes,Metformin,130/85,180
+40,Female,Heart Disease,Atorvastatin,140/90,180
+70,Female,Diabetes,Metformin,120/80,200
+40,Male,Asthma,Albuterol,140/90,220
+70,Female,Asthma,Albuterol,110/70,180
+70,Female,Asthma,Albuterol,120/80,200
+35,Female,Heart Disease,Atorvastatin,140/90,160
+60,Female,Diabetes,Metformin,120/80,180
+25,Male,Asthma,Albuterol,120/80,180
+25,Female,Hypertension,Amlodipine,130/85,220
+40,Female,Asthma,Albuterol,140/90,180
+70,Female,Hypertension,Amlodipine,110/70,180
+25,Male,Diabetes,Metformin,120/80,180
+35,Female,Asthma,Albuterol,140/90,200
+70,Female,Asthma,Albuterol,120/80,160
+35,Male,Diabetes,Metformin,110/70,160
+25,Female,Asthma,Albuterol,140/90,200
+25,Female,Hypertension,Amlodipine,110/70,180
+40,Male,Asthma,Albuterol,120/80,160
+25,Female,Heart Disease,Atorvastatin,110/70,180
+70,Male,Heart Disease,Atorvastatin,120/80,200
+70,Female,Hypertension,Amlodipine,140/90,220
+70,Female,Heart Disease,Atorvastatin,120/80,180
+40,Male,Diabetes,Metformin,140/90,200
+40,Female,Hypertension,Amlodipine,140/90,160
+25,Female,Asthma,Albuterol,130/85,180
+40,Female,Hypertension,Amlodipine,140/90,180
+40,Female,Diabetes,Metformin,120/80,180
+40,Male,Diabetes,Metformin,130/85,180
+25,Female,Hypertension,Amlodipine,130/85,180
+40,Male,Asthma,Albuterol,140/90,180
+25,Male,Diabetes,Metformin,110/70,180
+25,Male,Asthma,Albuterol,110/70,180
+25,Female,Heart Disease,Atorvastatin,130/85,200
+60,Female,Heart Disease,Atorvastatin,140/90,180
+70,Female,Asthma,Albuterol,110/70,180
+25,Female,Asthma,Albuterol,140/90,180
+60,Female,Asthma,Albuterol,140/90,200
+40,Female,Heart Disease,Atorvastatin,130/85,220
+40,Female,Diabetes,Metformin,130/85,220
+70,Female,Heart Disease,Atorvastatin,120/80,160
+40,Female,Diabetes,Metformin,110/70,180
+70,Male,Diabetes,Metformin,110/70,180
+40,Female,Asthma,Albuterol,110/70,200
+70,Male,Heart Disease,Atorvastatin,120/80,220
+40,Male,Asthma,Albuterol,140/90,160
+40,Male,Heart Disease,Atorvastatin,130/85,200
+40,Female,Asthma,Albuterol,110/70,180
+40,Female,Diabetes,Metformin,120/80,220
+40,Female,Asthma,Albuterol,110/70,160
+25,Male,Hypertension,Amlodipine,140/90,180
+35,Female,Hypertension,Amlodipine,140/90,220
+60,Male,Asthma,Albuterol,130/85,160
+35,Female,Hypertension,Amlodipine,120/80,200
+35,Female,Asthma,Albuterol,130/85,180
+70,Female,Asthma,Albuterol,110/70,160
+25,Male,Hypertension,Amlodipine,120/80,160
+70,Female,Asthma,Albuterol,130/85,180
+25,Male,Hypertension,Amlodipine,120/80,220
+25,Female,Diabetes,Metformin,130/85,180
+40,Male,Diabetes,Metformin,140/90,180
+40,Female,Asthma,Albuterol,110/70,160
+40,Male,Hypertension,Amlodipine,110/70,180
+40,Female,Heart Disease,Atorvastatin,110/70,220
+70,Female,Asthma,Albuterol,110/70,180
+40,Female,Diabetes,Metformin,110/70,200
+70,Female,Diabetes,Metformin,110/70,180
+35,Female,Heart Disease,Atorvastatin,120/80,180
+35,Female,Hypertension,Amlodipine,120/80,200
+40,Male,Asthma,Albuterol,110/70,180
+40,Male,Hypertension,Amlodipine,120/80,180
+70,Male,Diabetes,Metformin,110/70,180
+40,Male,Hypertension,Amlodipine,130/85,180
+70,Male,Diabetes,Metformin,110/70,180
+40,Female,Hypertension,Amlodipine,140/90,160
+35,Male,Heart Disease,Atorvastatin,120/80,180
+25,Female,Hypertension,Amlodipine,130/85,180
+40,Female,Heart Disease,Atorvastatin,130/85,200
+40,Female,Heart Disease,Atorvastatin,140/90,200
+70,Female,Heart Disease,Atorvastatin,110/70,160
+35,Female,Asthma,Albuterol,120/80,180
+40,Female,Asthma,Albuterol,130/85,180
+70,Female,Asthma,Albuterol,120/80,180
+40,Male,Heart Disease,Atorvastatin,130/85,200
+40,Male,Heart Disease,Atorvastatin,110/70,160
+60,Female,Diabetes,Metformin,130/85,200
+25,Male,Diabetes,Metformin,130/85,200
+60,Female,Asthma,Albuterol,120/80,160
+35,Female,Asthma,Albuterol,110/70,180
+40,Male,Diabetes,Metformin,140/90,180
+35,Female,Diabetes,Metformin,140/90,180
+70,Male,Hypertension,Amlodipine,110/70,220
+40,Male,Hypertension,Amlodipine,140/90,220
+60,Female,Diabetes,Metformin,110/70,220
+60,Female,Hypertension,Amlodipine,140/90,160
+60,Female,Diabetes,Metformin,120/80,200
+35,Female,Asthma,Albuterol,140/90,180
+40,Female,Asthma,Albuterol,130/85,180
+40,Female,Diabetes,Metformin,110/70,220
+70,Female,Heart Disease,Atorvastatin,120/80,180
+40,Female,Diabetes,Metformin,120/80,220
+35,Female,Hypertension,Amlodipine,110/70,220
+70,Female,Heart Disease,Atorvastatin,120/80,180
+60,Female,Hypertension,Amlodipine,140/90,160
+25,Female,Hypertension,Amlodipine,120/80,200
+35,Male,Hypertension,Amlodipine,120/80,160
+35,Male,Diabetes,Metformin,110/70,180
+40,Female,Heart Disease,Atorvastatin,110/70,160
+40,Male,Hypertension,Amlodipine,120/80,180
+35,Male,Hypertension,Amlodipine,120/80,180
+35,Female,Diabetes,Metformin,140/90,200
+60,Female,Heart Disease,Atorvastatin,130/85,180
+60,Female,Hypertension,Amlodipine,130/85,200
+70,Female,Asthma,Albuterol,140/90,160
+25,Male,Diabetes,Metformin,130/85,180
+40,Male,Heart Disease,Atorvastatin,120/80,220
+25,Female,Asthma,Albuterol,130/85,220
+70,Male,Diabetes,Metformin,140/90,180
+60,Female,Diabetes,Metformin,130/85,200
+40,Female,Heart Disease,Atorvastatin,110/70,180
+60,Female,Asthma,Albuterol,120/80,200
+40,Female,Hypertension,Amlodipine,120/80,180
+60,Female,Heart Disease,Atorvastatin,110/70,180
+40,Female,Asthma,Albuterol,110/70,180
+40,Female,Asthma,Albuterol,140/90,160
+40,Female,Diabetes,Metformin,120/80,160
+70,Female,Asthma,Albuterol,120/80,180
+40,Male,Heart Disease,Atorvastatin,120/80,160
+40,Female,Asthma,Albuterol,140/90,220
+40,Female,Heart Disease,Atorvastatin,120/80,160
+25,Female,Hypertension,Amlodipine,130/85,160
+35,Male,Diabetes,Metformin,110/70,160
+25,Male,Asthma,Albuterol,120/80,220
+40,Female,Heart Disease,Atorvastatin,110/70,160
+40,Male,Hypertension,Amlodipine,140/90,220
+60,Female,Diabetes,Metformin,130/85,180
+40,Male,Hypertension,Amlodipine,140/90,200
+40,Female,Heart Disease,Atorvastatin,130/85,180
+40,Female,Hypertension,Amlodipine,130/85,200
+40,Female,Hypertension,Amlodipine,110/70,180
+40,Male,Asthma,Albuterol,140/90,200
+70,Male,Asthma,Albuterol,140/90,200
+40,Female,Heart Disease,Atorvastatin,120/80,180
+35,Female,Heart Disease,Atorvastatin,140/90,200
+35,Male,Heart Disease,Atorvastatin,120/80,200
+40,Male,Heart Disease,Atorvastatin,120/80,180
+70,Male,Hypertension,Amlodipine,120/80,160
+60,Male,Diabetes,Metformin,120/80,160
+40,Male,Heart Disease,Atorvastatin,140/90,180
+35,Male,Heart Disease,Atorvastatin,140/90,220
+60,Female,Diabetes,Metformin,120/80,200
+40,Male,Hypertension,Amlodipine,130/85,200
+60,Female,Hypertension,Amlodipine,120/80,180
+25,Female,Asthma,Albuterol,120/80,180
+35,Male,Hypertension,Amlodipine,120/80,220
+40,Female,Asthma,Albuterol,130/85,160
+40,Female,Diabetes,Metformin,140/90,180
+70,Female,Heart Disease,Atorvastatin,120/80,160
+40,Male,Diabetes,Metformin,120/80,200
+40,Male,Heart Disease,Atorvastatin,120/80,180
+70,Male,Asthma,Albuterol,140/90,220
+70,Male,Hypertension,Amlodipine,120/80,160
+40,Female,Heart Disease,Atorvastatin,130/85,220
+60,Female,Asthma,Albuterol,140/90,160
+60,Female,Diabetes,Metformin,120/80,200
+70,Male,Asthma,Albuterol,110/70,180
+60,Female,Hypertension,Amlodipine,120/80,220
+25,Female,Asthma,Albuterol,130/85,220
+70,Male,Heart Disease,Atorvastatin,130/85,180
+70,Male,Asthma,Albuterol,130/85,220
+40,Female,Asthma,Albuterol,120/80,220
+60,Female,Hypertension,Amlodipine,120/80,160
+70,Female,Heart Disease,Atorvastatin,140/90,160
+25,Female,Diabetes,Metformin,120/80,180
+40,Female,Hypertension,Amlodipine,140/90,200
+40,Male,Asthma,Albuterol,130/85,220
+70,Female,Hypertension,Amlodipine,120/80,200
+25,Male,Heart Disease,Atorvastatin,130/85,180
+35,Male,Heart Disease,Atorvastatin,110/70,180
+25,Female,Heart Disease,Atorvastatin,130/85,160
+25,Female,Diabetes,Metformin,130/85,220
+40,Male,Asthma,Albuterol,140/90,180
+40,Female,Heart Disease,Atorvastatin,110/70,180
+35,Female,Asthma,Albuterol,130/85,220
+60,Female,Hypertension,Amlodipine,130/85,200
+60,Female,Diabetes,Metformin,110/70,160
+25,Male,Hypertension,Amlodipine,110/70,200
+40,Female,Asthma,Albuterol,120/80,180
+40,Female,Diabetes,Metformin,140/90,180
+60,Female,Heart Disease,Atorvastatin,110/70,200
+35,Female,Hypertension,Amlodipine,110/70,180
+40,Female,Heart Disease,Atorvastatin,120/80,220
+35,Female,Diabetes,Metformin,110/70,180
+70,Female,Diabetes,Metformin,140/90,160
+70,Female,Diabetes,Metformin,130/85,220
+40,Female,Diabetes,Metformin,130/85,180
+60,Male,Heart Disease,Atorvastatin,130/85,180
+40,Female,Asthma,Albuterol,130/85,180
+40,Male,Asthma,Albuterol,120/80,160
+70,Female,Diabetes,Metformin,110/70,160
+25,Female,Heart Disease,Atorvastatin,130/85,200
+25,Female,Heart Disease,Atorvastatin,120/80,200
+60,Female,Diabetes,Metformin,130/85,200
+40,Female,Heart Disease,Atorvastatin,110/70,160
+35,Male,Hypertension,Amlodipine,130/85,200
+40,Female,Diabetes,Metformin,120/80,200
+25,Female,Hypertension,Amlodipine,140/90,180
+25,Female,Diabetes,Metformin,140/90,200
+70,Female,Asthma,Albuterol,110/70,180
+40,Male,Asthma,Albuterol,140/90,160
+40,Male,Asthma,Albuterol,140/90,220
+25,Female,Asthma,Albuterol,120/80,180
+35,Female,Heart Disease,Atorvastatin,110/70,160
+60,Male,Hypertension,Amlodipine,110/70,160
+60,Female,Asthma,Albuterol,140/90,180
+40,Female,Diabetes,Metformin,140/90,200
+60,Male,Hypertension,Amlodipine,140/90,180
+25,Female,Diabetes,Metformin,120/80,200
+25,Female,Hypertension,Amlodipine,130/85,200
+40,Male,Hypertension,Amlodipine,120/80,160
+40,Female,Asthma,Albuterol,110/70,200
+70,Female,Asthma,Albuterol,120/80,180
+40,Female,Asthma,Albuterol,130/85,180
+35,Female,Hypertension,Amlodipine,120/80,180
+60,Female,Heart Disease,Atorvastatin,110/70,160
+40,Male,Heart Disease,Atorvastatin,110/70,180
+40,Female,Diabetes,Metformin,120/80,220
+70,Female,Diabetes,Metformin,120/80,200
+40,Female,Heart Disease,Atorvastatin,120/80,220
+25,Female,Hypertension,Amlodipine,110/70,180
+60,Male,Diabetes,Metformin,140/90,180
+40,Female,Diabetes,Metformin,120/80,160
+40,Female,Hypertension,Amlodipine,130/85,180
+60,Female,Asthma,Albuterol,110/70,180
+25,Male,Diabetes,Metformin,120/80,180
+35,Male,Heart Disease,Atorvastatin,120/80,160
+70,Male,Asthma,Albuterol,130/85,160
+60,Female,Hypertension,Amlodipine,140/90,200
+60,Male,Heart Disease,Atorvastatin,120/80,180
+35,Female,Heart Disease,Atorvastatin,110/70,180
+60,Female,Heart Disease,Atorvastatin,120/80,220
+25,Female,Heart Disease,Atorvastatin,110/70,180
+25,Female,Asthma,Albuterol,120/80,200
+35,Female,Hypertension,Amlodipine,120/80,160
+70,Female,Heart Disease,Atorvastatin,130/85,180
+40,Female,Heart Disease,Atorvastatin,140/90,180
+40,Female,Heart Disease,Atorvastatin,130/85,220
+40,Female,Asthma,Albuterol,140/90,200
+60,Male,Hypertension,Amlodipine,120/80,200
+40,Female,Hypertension,Amlodipine,120/80,180
+35,Female,Diabetes,Metformin,140/90,220
+35,Female,Asthma,Albuterol,120/80,200
+70,Female,Hypertension,Amlodipine,110/70,180
+40,Female,Asthma,Albuterol,130/85,200
+25,Male,Hypertension,Amlodipine,130/85,220
+40,Male,Asthma,Albuterol,130/85,160
+60,Female,Heart Disease,Atorvastatin,120/80,160
+25,Male,Asthma,Albuterol,130/85,180
+35,Female,Diabetes,Metformin,110/70,220
+40,Male,Heart Disease,Atorvastatin,110/70,200
+40,Female,Asthma,Albuterol,140/90,200
+70,Female,Diabetes,Metformin,120/80,160
+40,Female,Heart Disease,Atorvastatin,110/70,160
+70,Female,Asthma,Albuterol,120/80,180
+60,Female,Hypertension,Amlodipine,120/80,160
+40,Male,Heart Disease,Atorvastatin,120/80,180
+40,Female,Heart Disease,Atorvastatin,110/70,200
+40,Female,Diabetes,Metformin,120/80,180
+40,Female,Heart Disease,Atorvastatin,140/90,180
+40,Male,Heart Disease,Atorvastatin,110/70,180
+60,Female,Hypertension,Amlodipine,120/80,160
+25,Male,Asthma,Albuterol,120/80,180
+60,Female,Hypertension,Amlodipine,120/80,200
+70,Male,Diabetes,Metformin,120/80,220
+60,Male,Hypertension,Amlodipine,110/70,180
+70,Female,Asthma,Albuterol,110/70,160
+40,Male,Heart Disease,Atorvastatin,130/85,180
+25,Female,Hypertension,Amlodipine,130/85,200
+40,Female,Diabetes,Metformin,130/85,180
+35,Female,Diabetes,Metformin,110/70,220
+40,Female,Hypertension,Amlodipine,140/90,180
+70,Female,Asthma,Albuterol,110/70,180
+40,Female,Heart Disease,Atorvastatin,120/80,160
+40,Female,Asthma,Albuterol,110/70,180
+25,Male,Diabetes,Metformin,110/70,200
+40,Male,Diabetes,Metformin,120/80,220
