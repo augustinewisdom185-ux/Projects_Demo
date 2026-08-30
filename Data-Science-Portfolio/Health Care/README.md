@@ -32,3 +32,6 @@ The execution generates an high-fidelity visual dashboard saved directly as `pat
 - **Age Prototyping Distribution**: Grouped structural boxplots parsing patient age profiles.
 - **Cholesterol Density Outlines**: Statistical quartiles mapped using kernel-density violin arrays.
 - **Vitals Scatter Boundary Diagrams**: Continuous coordinates visualizing overlapping tracking gaps for Systolic and Diastolic categories simultaneously.
+
+### Dashboard Preview
+![Patient Data Plots](patient_data_plots.PNG)
