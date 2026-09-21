@@ -1,6 +1,6 @@
 # 🤖 Digit Classification Pipeline with Robust Outlier Removal
 
-This repository implements an end-to-end Machine Learning pipeline using **Scikit-Learn** to accurately classify handwritten digits from low-resolution images. It demonstrates how to properly execute data preprocessing tasks—such as **Interquartile Range (IQR) outlier removal**, **Principal Component Analysis (PCA)**, and **Feature Scaling**—without introducing **data leakage** between the training and testing sets.
+Implementing an end-to-end Machine Learning pipeline using **Scikit-Learn** to accurately classify handwritten digits from low-resolution images. It demonstrates how to properly execute data preprocessing tasks—such as **Interquartile Range (IQR) outlier removal**, **Principal Component Analysis (PCA)**, and **Feature Scaling**—without introducing **data leakage** between the training and testing sets.
 
 ---
 
