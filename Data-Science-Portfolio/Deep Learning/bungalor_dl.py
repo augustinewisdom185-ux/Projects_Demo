@@ -155,7 +155,7 @@ r2_accuracy = 1 - (residual_sum_of_squares / total_sum_of_squares)
 
 print(f"Model Variance Explanation Accuracy (R2 Score): {r2_accuracy * 100:.2f}%")
 
-if r2_accuracy >= 0.50:
+if r2_accuracy >= 0.96:
     print(f"\nAccuracy Requirement Passed ({r2_accuracy*100:.2f}% >= 50.00%)")
     print(f"Saving model weights to: {MODEL_SAVE_PATH}...")
     torch.save(obj=Model.state_dict(), f=MODEL_SAVE_PATH)
