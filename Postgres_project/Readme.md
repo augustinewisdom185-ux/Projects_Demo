@@ -43,13 +43,13 @@ A scalable, ledger-backed PostgreSQL database schema designed for modern e-comme
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com<your-username>/postgres_project.git
+   git clone https://github.com<postgres_project>/postgres_project.git
    cd postgres_project
    ```
 
-2. Update the `inventory_app` password inside `invemtory.sql`, then run the setup script via `psql`:
+2. Update the `inventory_app` password inside `inventory.sql`, then run the setup script via `psql`:
    ```bash
-   psql -U postgres -f invemtory.sql
+   psql -U postgres -f inventory.sql
    ```
 
 3. Connect your backend application using the restricted role:
