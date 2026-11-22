@@ -43,13 +43,13 @@ A scalable, ledger-backed PostgreSQL database schema designed for modern e-comme
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com
-   cd postgres-ecommerce-inventory
+   git clone https://github.com<your-username>/postgres_project.git
+   cd postgres_project
    ```
 
-2. Update the `inventory_app` password inside `schema.sql`, then run the setup script via `psql`:
+2. Update the `inventory_app` password inside `invemtory.sql`, then run the setup script via `psql`:
    ```bash
-   psql -U postgres -f schema.sql
+   psql -U postgres -f invemtory.sql
    ```
 
 3. Connect your backend application using the restricted role:
